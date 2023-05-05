@@ -1,0 +1,2 @@
+1. testes de unidade são focados em pequenas partes do sistema, enquanto os funcionais testam um fluxo de ponta a ponta
+2. testes de unidade precisam ser executados rapidamente, enquanto os funcionais podem ser mais demorados
